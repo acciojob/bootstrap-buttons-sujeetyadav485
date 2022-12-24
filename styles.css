@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.first{
+    justify-content: start;  
+  }
+  /* #button-4{
+      width: 71px;
+      height: 30px;
+  } */
+  #button-5{
+      justify-content: center;
+      width: 100%;
+  }
